@@ -1,4 +1,4 @@
-var isPalindrome = function(head) {
+const isPalindrome = (head) => {
     let string1 = string2 = "";
     let node = head;
     

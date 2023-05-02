@@ -1,4 +1,4 @@
-var isPalindrome = function(head) {
+const isPalindrome = (head) => {
     if(head.length % 2 === 0) {
        const first = head.slice(0, head.length/2);
        const second = head.slice(head.length/2);
