@@ -5,3 +5,6 @@
 - task 3: `2 sum and 3 sum`
 - task 4: `Sorted median array`
 - task 5: `String in Integer (atoi)`
+- task 6: `Valid Parentheses`
+- task 7: `FizzBuzz`
+- task 8: `Contains Duplicate`
