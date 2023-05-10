@@ -8,3 +8,5 @@
 - task 6: `Valid Parentheses`
 - task 7: `FizzBuzz`
 - task 8: `Contains Duplicate`
+- task 9: `Richer Customer Wealth`
+- task 10: `Atoi`
