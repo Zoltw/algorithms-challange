@@ -10,3 +10,6 @@
 - task 8: `Contains Duplicate`
 - task 9: `Richer Customer Wealth`
 - task 10: `Atoi`
+- task 11: `Contains Duplicate`
+- task 12: `Longest Common Prefix`
+- task 13: `Max Number of Vowels`
