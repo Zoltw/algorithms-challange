@@ -19,8 +19,9 @@ const singleNumber = (nums) => {
 // more efficient solution
 
 const singleNumber1 = (nums) => {
-    return nums.reduce((res, num) => res ^ num,0)
+    return nums.reduce((res, num) => res ^ num)
 };
 
+console.log(singleNumber1([3,2,1,2,1]))
 // if not seen digit +
 // else digit -

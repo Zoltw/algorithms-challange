@@ -14,3 +14,5 @@
 - task 12: `Longest Common Prefix`
 - task 13: `Max Number of Vowels`
 - task 14: `Phone number keyboard`
+- task 15: `Single number`
+- task 16: `bestTimeToBuyAndSellStock`
