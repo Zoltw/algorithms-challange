@@ -16,3 +16,5 @@
 - task 14: `Phone number keyboard`
 - task 15: `Single number`
 - task 16: `bestTimeToBuyAndSellStock`
+- task 17: `Valid Anagram`
+- task 18: `Unique Number of Occurrences`
