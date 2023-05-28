@@ -1,5 +1,7 @@
 # 30daysAlgorithmChallange
 
+### leetcode challange https://leetcode.com/problemset/all
+
 - task 1: `Roman to integer`
 - task 2: `Polindrome array number and linked list`
 - task 3: `2 sum and 3 sum`
@@ -18,3 +20,4 @@
 - task 16: `bestTimeToBuyAndSellStock`
 - task 17: `Valid Anagram`
 - task 18: `Unique Number of Occurrences`
+- task 19: `Rank Teams by Votes`
